@@ -1,0 +1,8 @@
+@article{arshad2020overview,
+Author        = {Arshad, Muhammad Haseeb and Abido, MA},
+Title         = {An Overview of Sequential Learning Algorithms for Single Hidden Layer Networks: Current Issues \& Future Trends},
+ArchivePrefix = {arXiv},
+Year          = {2020},
+Month         = {May},
+Url           = {https://www.techrxiv.org/articles/preprint/12253340},
+}

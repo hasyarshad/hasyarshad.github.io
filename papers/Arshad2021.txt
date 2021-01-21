@@ -1,0 +1,7 @@
+@article{Arshad2021,
+  title={Hierarchical Control of DC Motor Coupled with Cuk Converter Combining Differential Flatness and Sliding Mode Control},
+  author={Arshad, M. H. and Abido, M. A.},
+  journal={Arabian Journal for Science and Engineering},
+  year={2021},
+  publisher={Springer}
+}

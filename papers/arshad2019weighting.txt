@@ -1,0 +1,9 @@
+@article{arshad2019weighting,
+  title={Weighting factors optimization of model predictive torque control of induction motor using NSGA-II With TOPSIS decision making},
+  author={Arshad, Muhammad Haseeb and Abido, Mohammad Ali and Salem, Aboubakr and Elsayed, Abubakr H},
+  journal={Ieee Access},
+  volume={7},
+  pages={177595--177606},
+  year={2019},
+  publisher={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{arshad2018advanced,
+  title={Advanced Direct Torque Control of Four Switch Fed Two-Phase Symmetric Induction Motor},
+  author={Arshad, Muhammad Haseeb and Khalid, Muhammad},
+  booktitle={2018 IEEE 27th International Symposium on Industrial Electronics (ISIE)},
+  pages={108--113},
+  year={2018},
+  organization={IEEE}
+}

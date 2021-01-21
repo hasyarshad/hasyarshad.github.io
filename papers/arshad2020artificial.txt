@@ -1,0 +1,8 @@
+@inproceedings{arshad2020artificial,
+  title={Artificial Bee Colony Optimized Self-tuning PI Speed Controller for FCS-MPCC of Permanent Magnet Synchronous Machines},
+  author={Arshad, MH and Elsayed, Abubakr H and Abido, MA and Salem, A},
+  booktitle={2020 First International Conference of Smart Systems and Emerging Technologies (SMARTTECH)},
+  pages={220--226},
+  year={2020},
+  organization={IEEE}
+}

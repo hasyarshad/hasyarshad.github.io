@@ -1,0 +1,70 @@
+# Site settings
+title: Muhammad Haseeb Arshad
+email: haseeb.arshad.ee@gmail.com
+description: Personal Webpage of Muhammad Haseeb Arshad
+baseurl: ""
+url: ""
+
+
+# Google analytics ID: Remove or use your own!
+# google_analytics: UA-167467135-1
+
+# Footer info
+affiliation: >
+    Muhammad Haseeb Arshad<br/>
+    Graduate Scholar<br/>
+    <a href="http://muhammadhaseeb.info/" target="_blank">Personal Webpage</a><br/>
+    King Fahd University of Petroleum & Technology
+
+location: >
+  <a href="https://www.google.com/maps/place/NBP+ATM/@31.3770673,74.150035,13z/data=!4m8!1m2!2m1!1sgulmohar+block+bahria+town+lahore!3m4!1s0x3918ffeb8f0d4a2f:0xea52240b8ae78a76!8m2!3d31.3770673!4d74.1850539" target="_blank">Google Map Location</a><br/>
+  Home Address <br/>
+  Gulmohar Block Bahria Town<br/>
+  Pakistan, 34920
+
+contact: >
+    <a href="mailto:haseeb.arshad.ee@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Muhammad Haseeb via email</a> <br/>
+
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: publications
+# - name: talks
+#  - name: research
+#  - name: software
+# - name: team
+# - name: teaching
+
+# Do you want to group your publications by year? {true/false}
+group_pub_by_year: true
+
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - update_boostrap.sh
+  - switch_theme.sh
+  - makebib.py

@@ -1,0 +1,8 @@
+@inproceedings{arshad2019chaos,
+  title={A Chaos Based SVPWM technique for B4 Inverter fed Two-Phase Symmetric Induction Motor for THD \& EMI improvement at Low Modulation Index},
+  author={Arshad, Muhammad Haseeb and Kassas, Mahmoud},
+  booktitle={2019 IEEE Texas Power and Energy Conference (TPEC)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
