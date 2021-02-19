@@ -12,7 +12,7 @@ permalink: /
 Hi! I’m **M. Haseeb**, a control engineer and an enthusiastic programmer, previously enrolled in the <a href="http://www.kfupm.edu.sa/departments/ee/default.aspx" target="_blank">Department of Electrical Engineering</a> at King Fahd University of Petroleum & Minerals, Saudi Arabia as a full time graduate student.
 I work with <a href="https://faculty.kfupm.edu.sa/ee/mabido/" target="_blank">Distinguished Professor Mohammed Ali Abido </a> at the FACTS LAB on improvement of model predictive control for industrial drives.
 Most of my research work is focused on Machine Drives and Multilevel Inverters. I’ve published several journal & proceeding papers on the improvement of Two-Phase Symmetrical Induction Motor Drive and Finite Set Control Model Predictive Torque Control of Induction Motor. 
-I have also worked with <a href="https://faculty.kfupm.edu.sa/EE/mkassas/" target="_blank">Associate Professor Mahmoud Kassas</a> at KFUPM for the study of Chaotic in Power Electronics.
+I have also worked with <a href="https://faculty.kfupm.edu.sa/EE/mkassas/" target="_blank">Associate Professor Mahmoud Kassas</a> at KFUPM for the study of chaos in Power Electronics.
 Recently I’ve started exploring the usefulness of machine learning in industrial drives and smart grids.
 
 I study topics including stochastic theory, advanced power electronic, convex optimization theory, evolutionary programming, adaptive control, digital signal processing, machine learning, introduction to fundamentals and intelligent control. 
