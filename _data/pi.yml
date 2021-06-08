@@ -1,0 +1,15 @@
+- name: Muhammad Haseeb Arshad
+  photo: haseeb_headshot.jpg
+  info: Graduate Scholar, KFUPM
+  email: haseeb.arshad.ee@gmail.com
+  github: https://github.com/hasyarshad
+  researchgate: https://www.researchgate.net/profile/Muhammad_Haseeb_Arshad
+  scholar: https://scholar.google.com/citations?user=-nga1p4AAAAJ&hl=en
+  cv: cv/haseeb_cv.pdf
+  number_educ: 3
+  education1: (2020) M.Sc. Electrical Engineering<br> King Fahd University of Petroleum & Minerals (with <a href="https://faculty.kfupm.edu.sa/ee/mabido/" target="_blank">Mohammed Ali Abido</a>)
+  education2: (2017) M.Sc. Electrical Engineering<br> University of Engineering & Technology (with <a href="https://www.uet.edu.pk/faculties/facultiesinfo/ee/DrKhalidMahmood.html" target="_blank">Khalid Mehmood Hassan</a>)
+  education3: (2014) B.S. Electrical Engineering<br> University of the Punjab
+  education1short: (2020) M.S., KFUPM
+  education2short: (2017) M.Sc., UET 
+  education3short: (2014) B.S., PU 

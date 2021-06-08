@@ -1,0 +1,93 @@
+# Site settings
+title: Muhammad Haseeb Arshad
+email: haseeb.arshad.ee@gmail.com
+description: Personal Webpage of Muhammad Haseeb Arshad
+baseurl: ""
+url: "https://muhammadhaseeb.info/"
+
+
+# Google analytics ID: Remove or use your own!
+google_analytics: UA-188849672-1
+
+# Footer info
+about: >
+    Muhammad Haseeb Arshad<br/>
+    PEC Certified Engineer<br/>
+    <a href="https://muhammadhaseeb.info" target="_blank">Personal Website</a>
+
+coordinates: >
+  <a href="https://www.google.com/maps/place/NBP+ATM/@31.3770673,74.150035,13z/data=!4m8!1m2!2m1!1sgulmohar+block+bahria+town+lahore!3m4!1s0x3918ffeb8f0d4a2f:0xea52240b8ae78a76!8m2!3d31.3770673!4d74.1850539" target="_blank">Correspondence Address</a><br/>
+  Gulmohar Block Bahria Town<br/>
+  Pakistan, 53720
+
+information: >
+    <a href="mailto:haseeb.arshad.ee@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Haseeb via email</a> <br/>
+    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a> <br/>
+    <a href="/interests.html"><i class="fa fa-users fa-1x"></i> Explore research interests</a>
+
+
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: publications
+
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
+plugins: ['jekyll/scholar']
+
+scholar:
+
+  last_name: Arshad
+  first_name: [Muhammad Haseeb]
+
+  style: ieee
+  locale: en
+
+  source: /cv/
+  bibliography: ref.bib
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - update_boostrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile
